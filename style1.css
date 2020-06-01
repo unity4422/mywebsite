@@ -1,0 +1,13 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.img-fluid{
+	height: 70vh;
+	width: 70vh;
+	border-radius: 30%;
+}
+h3{
+	color: purple;
+	font-weight:bolder;
+}
